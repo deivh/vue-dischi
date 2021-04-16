@@ -10,7 +10,7 @@ function initVue() {
         el: '#app',
         data: {
             albums: [],
-            genre: ''
+            genre: '0'
         },
         mounted() {
 
